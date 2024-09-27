@@ -1,0 +1,279 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #ffffff6e;
+}
+.navbar {
+    
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Keeps it above other content */
+  }
+
+.heel{
+    width: 100%;
+    height: 80vh;
+    background-image: url(img/green-mountains.jpg);
+    background-size: cover;
+}
+.heel:hover{
+    height: 82vh;
+}
+.MID-TEXT{
+    text-align: center;
+    color: WHITE;
+}
+.main-blog{
+    margin: 0px;
+    padding-top: 30vh;
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main-blog2{
+    padding-top: 0.001vh;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+    .PACKING{
+        width: 1000px;
+        height: 850px;
+        margin-top: 30px;
+        margin-left: 180px;
+        
+    }
+    .PACKING-TEXT{
+        width: 1000px;
+        height: 530px;
+        background-image: url(img/packing-1140x530.jpg);
+        background-size: cover;
+    }
+    .PACKING-TEXT:hover{
+        width: 1020px;
+        height: 550px;
+    }
+    .main{
+        text-align: center;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .text-about{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    
+    .costa{
+        width: 1000px;
+        height: 850px;
+        margin-top: 30px;
+        margin-left: 180px;
+    }
+    .costa-TEXT{
+        width: 980px;
+        height: 440px;
+        background-image: url(img/costa-rica-volcano.jpg);
+        
+    }
+    .costa-TEXT:hover{
+        width: 1000px;
+        height: 460px;
+    }
+    .main1{
+        text-align: center;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .text-about1{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .costa-bold{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .text-about2{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .div3{
+        width: 1000px;
+        height: 850px;
+        margin-top: 30px;
+        margin-left: 180px;
+    }
+    .heading-3{
+        width: 1000px;
+        height: 530px;
+        background-image: url(img/alaska-glaciers-1140x530.jpg);
+        background-size: cover;
+    }
+    .heading-3:hover{
+        width: 1020px;
+        height: 550px;
+    }
+    .alaska{
+        text-align: center;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .about-3{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .div4{
+        width: 1000px;
+        height: 850px;
+        margin-top: 30px;
+        margin-left: 180px;
+    }
+    .heading-4{
+        width: 1000px;
+        height: 530px;
+        background-image: url(img/beach-stones-1140x530.jpg);
+        background-size: cover;
+    }
+    .heading-4:hover{
+        width: 1020px;
+        height: 550px;
+    }
+    .should{
+        text-align: center;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .about-4{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .div5{
+        width: 1000px;
+        height: 850px;
+        margin-top: 30px;
+        margin-left: 180px;
+    }
+    .heading-5{
+        width: 1000px;
+        height: 530px;
+        background-image: url(img/tropic-toucan-1140x530.jpg);
+        background-size: cover;
+    }
+    .heading-5:hover{
+        width: 1020px;
+        height: 550px;
+    }
+    .earth{
+        text-align: center;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .about-5{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .div6{
+        width: 1000px;
+        height: 850px;
+        margin-top: 30px;
+        margin-left: 180px;
+    }
+    .heading-6{
+        width: 1000px;
+        height: 530px;
+        background-image: url(img/amazon-jungle-940x530.jpg);
+        background-size: cover;
+    }
+    .heading-6:hover{
+        width: 1020px;
+        height: 550px;
+    }
+    .stay{
+        text-align: center;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+    .about-6{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    #contact{
+
+        margin-top: 50px;
+        height: 450px;
+        background-color: #efeade;
+    }
+    
+    .text-center{
+        text-align: center;
+        text-decoration: underline;
+        font-size: 30px;
+        font-family: "Ubuntu", sans-serif;
+        padding-top: 25px ;
+        
+    }
+    
+    .form{
+        margin: 20px auto;
+        max-width: 1200px;
+        /* margin-top:5px; */
+    }
+    
+    .form-input{
+        width: 800px;
+        font-size: 15px;
+        padding: 5px 12px;
+        border: 2px solid gray;
+        border-radius: 6px;
+        
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        display: block;
+        margin: 10px auto;
+    }
+    
+    .btn-dark{
+        color:white;
+        border:2px solid rgb(248, 238, 238);
+        display: block;
+        margin: 0px 550px;
+        font-family: "Ubuntu", sans-serif;
+        font-size: 18px;
+        
+    }
+    
+    .btn-primary{
+        margin-left: 120px;
+    }
+    
+
+    .container1{
+        height: 400px;
+        background-image:url('img/mountain1.jpg');
+        /* background-repeat: no-repeat;  */
+        /* background-size: cover;  */
+        /* background-position: center;  */
+        width: 100vw;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 100px; 
+        grid-gap: 1.5rem;
+        position: relative;
+        bottom: 0;
+    
+    }
+    
+    .boxxes{
+        /* border: 2px solid black; */
+        /* background-color: aquamarine; */
+        /* padding: 34px; */
+        height:100 px;
+        width: 300px;
+        color: white;
+        cursor: pointer;
