@@ -205,6 +205,12 @@ h1{
     width: 250px    ;
 
 }
+.boxes1:hover{
+   cursor: pointer;
+    height: 210px;
+    width: 210px    ;
+
+}
 
 
 
